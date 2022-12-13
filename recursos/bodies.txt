@@ -1,0 +1,35 @@
+PARA UN LIBRO
+{
+    "isbn":"  613615 25043  ",
+    "title":"Programming from scratch",
+    "description":"Programming book",
+    "category":{
+        "id":1
+    },
+    "editorial":{
+        "id":1
+    },
+    "authors":[
+        {
+            "id":1
+        },
+        {
+            "id":4
+        }
+    ]
+}
+
+PARA UN AUTOR
+{
+    "name": "",
+    "first_surname": "",
+    "second_surname": ""
+}
+
+PARA UN USUARIO
+{
+    "name": "",
+    "email": "",
+    "password": "",
+    "password_confirmation": ""
+}
